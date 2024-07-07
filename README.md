@@ -1,4 +1,4 @@
-# Tailwind CSS Generator
+# Tailwind CSS OneFile Generator
 
 Simple PHP-based Tailwind CSS generator.
 
@@ -36,5 +36,4 @@ Simple PHP-based Tailwind CSS generator.
 
 ## Files
 
-- `index.html`: Main interface.
-- `generate-tailwind.php`: PHP script for commands.
+- `generate-tailwind.php`: Main interface and script.
